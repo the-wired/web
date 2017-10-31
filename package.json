@@ -1,0 +1,23 @@
+{
+  "name": "the-wired-web",
+  "version": "0.1.0",
+  "description": "C O N N E C T  T O  W I R E D",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"No tests available\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-wired/web.git"
+  },
+  "keywords": [
+    "wired"
+  ],
+  "author": "Lain Iwakura <lain@thewired.io>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/the-wired/web/issues"
+  },
+  "homepage": "https://thewired.io"
+}
